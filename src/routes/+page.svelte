@@ -10,8 +10,6 @@
 	/>
 </svelte:head>
 
-<!-- <Background /> -->
-
 <main>
 	<div class="ornamentContainer">
 		<div class="ornament1 ornament">
