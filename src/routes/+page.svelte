@@ -179,12 +179,13 @@
 		<p class="dateAndTime">December 24th <br />3:00PM & 4:30PM</p>
 		<div class="videoContainer">
 			<iframe
-				src="https://www.youtube.com/embed/0fBFgOK7pfQ"
+				src="https://www.youtube.com/embed/videoseries?si=jvPNnVkjNV5tsSMn&amp;list=PLzIu1DkkWpWy0UXYrvu-7PTCWdVmZVWm6"
 				title="YouTube video player"
 				frameborder="0"
-				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+				referrerpolicy="strict-origin-when-cross-origin"
 				allowfullscreen
-			/>
+			></iframe>
 		</div>
 		<p class="playlist">
 			For the entire playlist, please <a
