@@ -176,7 +176,7 @@
 	<div class="christmasText">
 		<p class="desc">A casual and meaningful community celebration of Christmas</p>
 		<h1 class="christmasEve">Christmas Eve Service</h1>
-		<p class="dateAndTime">December 24th <br />3:00PM & 4:30PM</p>
+		<p class="dateAndTime">December 24th <br />2:00PM & 3:30PM</p>
 		<div class="videoContainer">
 			<iframe
 				src="https://www.youtube.com/embed/videoseries?si=jvPNnVkjNV5tsSMn&amp;list=PLzIu1DkkWpWy0UXYrvu-7PTCWdVmZVWm6"
